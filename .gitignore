@@ -1,0 +1,9 @@
+# Symlink directories created by install.sh — user runs locally, not committed
+.claude/
+.agents/
+.opencode/skills/
+
+# Python
+__pycache__/
+*.pyc
+.ruff_cache/
